@@ -8,16 +8,18 @@ import re # регулярные выражения
 import time # работа со временем,конкретно, в юнит формате
 import random # для рандомной генерации чисел
 
-TOKEN='1945311712:AAH-bnbTpo71EpmHQu_jvTwQfNKlCfs-i7Y'
+#токен бота
+TOKEN='bot token'
 
-CHANNEL_CHAT_ID='-1001517335934'
+#айди канала
+CHANNEL_CHAT_ID='id channel'
 
 URL='https://api.telegram.org/bot'
 
 # киви токен и ключи
-QIWI_TOKEN='a5c44955b7bf2d4922f18239ecc329e4'
-QIWI_PUBLIC_KEY='48e7qUxn9T7RyYE1MVZswX1FRSbE6iyCj2gCRwwF3Dnh5XrasNTx3BGPiMsyXQFNKQhvukniQG8RTVhYm3iPuET3WiubCZipFVunR4zvg8cxZNtak9VcY9PpaKqQnhZ1Cc4V9tfmA6e2zMhpXHrzj5iapPEcoTd2GrXn26fRHvshBMNve5qEt7ecj6oHk'
-QIWI_SECRET_KEY='eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6Im5ja3AxdC0wMCIsInVzZXJfaWQiOiI3OTA0NjMxMTM5NSIsInNlY3JldCI6IjU4MDczOWFkZjAyNDVjODBhOWFhNTkwNTU2YjcwZTQwM2Y4NmE5ZjczMjdhYTcxYzdlMTM1NmNlYmMzMDJjMWIifX0='
+QIWI_TOKEN='qiwi token'
+QIWI_PUBLIC_KEY='p2p public key'
+QIWI_SECRET_KEY='p2p public key'
 
 #данные бд
 DB_NAME='vip_chat'
