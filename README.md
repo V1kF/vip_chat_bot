@@ -3,6 +3,6 @@
 
 ***Функции бота:***
 
-:white_check_mark: sdf
+* sdf
 
 
