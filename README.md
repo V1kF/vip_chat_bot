@@ -27,3 +27,5 @@
 ![](https://i.imgur.com/rUyg6VO.jpg)      
 *После нажатия на кнопку 'шестерёнка' (:exclamation: для админов или владельца бота :exclamation:),придёт сообщение с кнопкой для выплат пользователям   
 ![](https://i.imgur.com/c4H128o.jpg)   
+*Так выглядит база данных к этому боту:*
+![](https://i.imgur.com/UvbsFvg.jpg)
